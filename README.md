@@ -31,7 +31,7 @@ group7_llm_tests/
 
 ---
 
-## Paper Registry — Models Tested Per Paper
+## Paper Registry — Models Tested Per Paper.
 
 ### Topic 1: "What's Wrong with the Picture?" (Section 5.2)
 
